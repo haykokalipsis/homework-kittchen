@@ -8,7 +8,7 @@
                     <div class="card-header">Chat</div>
 
                     <div class="card-body" id="myApp">
-{{--                        <chat-app :user="{{ auth()->user() }}"></chat-app>--}}
+                        <chat-app :user="{{ auth()->user() }}"></chat-app>
                     </div>
                 </div>
             </div>
